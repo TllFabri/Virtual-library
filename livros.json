@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "ano": 1899,
+    "descricao": "Clássico da literatura brasileira sobre ciúmes e memória."
+  },
+  {
+    "id": 2,
+    "titulo": "O Cortiço",
+    "autor": "Aluísio Azevedo",
+    "ano": 1890,
+    "descricao": "Romance naturalista que retrata a vida num cortiço carioca."
+  },
+  {
+    "id": 3,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "ano": 1881,
+    "descricao": "Narrado por um defunto-autor que revisita sua vida com ironia."
+  }
+]
